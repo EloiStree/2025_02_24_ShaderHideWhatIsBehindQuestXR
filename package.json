@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.hidexr",                              
+  "displayName": "Hide Quest XR Shader",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Just a shader to hide object behind others when in AR with Quest",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_02_24_ShaderHideWhatIsBehindQuestXR.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
